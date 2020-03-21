@@ -1,4 +1,4 @@
-package com.myExample.chapter1Horstmann.stringComparison;
+package com.myExample.chapter1Horstmann.сomparison;
 
 public class StringComparison {
    /* Section 1.5.3, “String Comparison” (page 25) has an example of two strings

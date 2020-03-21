@@ -1,4 +1,4 @@
-package com.myExample.chapter1Horstmann.magicSquare;
+package com.myExample.chapter1Horstmann.matrix;
 
 import java.util.ArrayList;
 import java.util.Arrays;

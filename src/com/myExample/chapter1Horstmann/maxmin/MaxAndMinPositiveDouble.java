@@ -1,4 +1,4 @@
-package com.myExample.chapter1Horstmann.maxMinDouble;
+package com.myExample.chapter1Horstmann.maxmin;
 
 import static java.lang.Math.nextUp;
 

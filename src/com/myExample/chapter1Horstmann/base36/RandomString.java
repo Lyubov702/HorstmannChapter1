@@ -1,4 +1,4 @@
-package com.myExample.chapter1Horstmann.randomString;
+package com.myExample.chapter1Horstmann.base36;
 
 import java.util.Random;
 

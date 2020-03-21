@@ -1,4 +1,4 @@
-package com.myExample.fundamentalProgrammingStructures.maxInt;
+package com.myExample.chapter1Horstmann.maxint;
 
 public class MaxInt {
 /*    5. What happens when you cast a double to an int

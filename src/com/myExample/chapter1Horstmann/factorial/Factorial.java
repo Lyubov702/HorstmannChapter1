@@ -1,4 +1,4 @@
-package com.myExample.fundamentalProgrammingStructures.factorial;
+package com.myExample.chapter1Horstmann.factorial;
 
 import java.math.BigInteger;
 

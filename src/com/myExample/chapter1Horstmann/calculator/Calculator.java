@@ -1,4 +1,4 @@
-package com.myExample.fundamentalProgrammingStructures.calculator;
+package com.myExample.chapter1Horstmann.calculator;
 
 import java.util.Scanner;
 

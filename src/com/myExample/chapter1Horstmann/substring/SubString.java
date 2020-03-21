@@ -1,4 +1,4 @@
-package com.myExample.fundamentalProgrammingStructures.subString;
+package com.myExample.chapter1Horstmann.substring;
 
 import java.util.Scanner;
 

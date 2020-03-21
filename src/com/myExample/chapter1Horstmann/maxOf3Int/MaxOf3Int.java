@@ -1,4 +1,4 @@
-package com.myExample.fundamentalProgrammingStructures.maxOf3Int;
+package com.myExample.chapter1Horstmann.maxOf3Int;
 
 import java.util.Scanner;
 

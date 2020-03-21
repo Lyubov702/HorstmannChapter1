@@ -1,4 +1,4 @@
-package com.myExample.chapter1Horstmann.normalizedAngle;
+package com.myExample.chapter1Horstmann.angle;
 
 import java.util.Scanner;
 
