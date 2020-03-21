@@ -1,4 +1,4 @@
-package com.myExample.chapter1Horstmann.numberSystem;
+package com.myExample.chapter1Horstmann.transfer;
 
 import java.util.Scanner;
 
