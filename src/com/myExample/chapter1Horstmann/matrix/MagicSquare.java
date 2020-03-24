@@ -18,7 +18,8 @@ public class MagicSquare {
         System.out.println("Enter the two-dimensional array");
         while (true) {
             str = in.nextLine();
-            if (str.equals("")) break;
+
+            if ("".equals(str)) break;
             inputStrings.add(str);
         }
 
